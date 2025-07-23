@@ -1,0 +1,11 @@
+square of number: bình phương của một số
+the greatest common divider (GCD) : ước chung nhỏ nhất
+	+ gcd(a,b) = gcd(a,b-a) khi 2 số bằng nhau = gcd
+	+ gcd(a,b) = gcd(b,a%b) khi 1 số bằng 0, số còn lại = gcd
+
+the least common multiple (LCM) : bội dung lớn nhất
+	+ lcm(a,b) = a*b / gcd(a,b)
+
+256 is a power of 2: 256 là lũy thừ của 2 (2^8=256)
+
+prime number: số nguyên tố
